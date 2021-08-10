@@ -67,3 +67,5 @@ fn display_progress(letters: &Vec<Letter>) {
 
     println!("{}", display_string);
 }
+
+
